@@ -23,7 +23,7 @@ A Python-based multithreaded Network Port Scanner developed as part of the **Opt
 - CSV
 - Colorama
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Here-abdullah/OptimusAutomate_NetworkPortScanner.git
@@ -52,20 +52,6 @@ OptimusAutomate_NetworkPortScanner/
 │── requirements.txt
 │── LICENSE
 │── .gitignore
-```
-
-## 📷 Screenshot
-
-Create a folder named **screenshots** and place your terminal screenshot there.
-
-```text
-screenshots/port_scanner.png
-```
-
-Then add:
-
-```markdown
-![Port Scanner](screenshots/port_scanner.png)
 ```
 
 ## 🎯 Learning Outcomes
